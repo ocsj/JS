@@ -1,2 +1,2 @@
 # JS
-aprendo java script
+aprendendo java script
